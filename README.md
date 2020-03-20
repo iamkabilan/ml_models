@@ -1,2 +1,2 @@
 # ml_models
-Intro to building model
+various machine learning models implemented in the datasets
